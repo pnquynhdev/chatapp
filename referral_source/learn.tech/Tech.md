@@ -43,3 +43,6 @@
 - [toObject, toJSON](https://mongoosejs.com/docs/api/document.html)
 - DotENV Extension
 - REST Client Extension
+- [.gitignore File – How to Ignore Files and Folders in Git](https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/)
+- [bcrypt](https://www.npmjs.com/package/bcrypt)
+- [Promise.all()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)

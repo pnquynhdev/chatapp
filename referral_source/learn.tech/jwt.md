@@ -4,5 +4,6 @@
 * [What & Why JWT ? Tại Sao Cần JSON Web Token](https://youtu.be/Fzex3mslSXY) 
 * [JWT (JSON Web Token) là gì? Hướng dẫn tạo JWT Auth trong NodeJS](https://youtu.be/LxeYH4D1YAs)
 * [Using Cookies with JWT in Node.js](https://dev.to/franciscomendes10866/using-cookies-with-jwt-in-node-js-8fn)
+* [Token (JWT) Làm sao thu hồi một token bị HACK và một vài câu hỏi về mức độ an toàn khi sử dụng token](https://youtu.be/93fTk16-st0)
 ---
 - JWT_SECRET: terminal -> gitbash -> "openssl rand -base64 32" -> copy + paste
